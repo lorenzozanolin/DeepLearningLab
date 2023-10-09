@@ -2,8 +2,6 @@
 
 This repo contains the slides and exercises from the Practicum Deep Learning course at the University of Klagenfurt, Austria.
 
-For any question/issue, please contact me: [Pierre TASSEL](https://github.com/ingambe).
-
 ## Table of Contents
 
 The course focus on the basics of Deep Learning, solving machine learning problems using PyTorch. 
