@@ -1,0 +1,11 @@
+**/*.ipynb_checkpoints/
+.DS_Store
+**/wandb/
+**/wandb/**/*
+**/*/debug.log
+**/debug.log
+debug.log
+latest_run
+**/latest_run
+**/latest_run/*
+**/latest_run/**/*
